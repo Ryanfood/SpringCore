@@ -12,7 +12,7 @@ target/
 *.log
 
 # 忽略編譯器配置文件
-*.properties
+#*.properties
 *.properties.template
 
 # 忽略部署文件
